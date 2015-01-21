@@ -1,6 +1,8 @@
 metagen
 =======
-How to run
+Goal: Use linear programming, linear equation, l1-approximation to estimate abundance.
+
+How to run:
 
 Require Python 2.7.6
 
